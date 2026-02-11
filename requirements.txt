@@ -1,0 +1,2 @@
+# Requires: forgotten-paradox
+# (Not available on PyPI)
